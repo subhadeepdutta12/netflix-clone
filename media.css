@@ -79,9 +79,9 @@
     }
 
     .secImg video {
-        width: 350px;
+        width: 300px;
         top: 80px;
-        right: 0px;
+        right: 60px;
     }
 
     .hero> :nth-child(1) {
@@ -141,9 +141,9 @@
     }
 
     .secImg video {
-        width: 350px;
+        width: 300px;
         top: 80px;
-        right: 0px;
+        right: 60px;
     }
 
     .hero> :nth-child(1) {
@@ -212,10 +212,10 @@
         width: 425px;
     }
 
-    .secImg video {
-        width: 350px;
+   .secImg video {
+        width: 300px;
         top: 80px;
-        right: 0px;
+        right: 60px;
     }
 
     .hero> :nth-child(1) {
@@ -285,11 +285,11 @@
     }
 
     .secImg video {
-        width: 350px;
+        width: 300px;
         top: 80px;
-        right: 0px;
+        right: 60px;
     }
-
+    
     .hero> :nth-child(1) {
         font-size: 32px;
     }
